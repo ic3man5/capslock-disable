@@ -1,4 +1,4 @@
 capslock-disable
 ================
 
-Keeps Caps lock light disabled
+Makes capslock function like the shift key, runs as a system tray icon and can be disabled/enabled.
